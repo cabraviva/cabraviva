@@ -7,7 +7,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/greencoder001?style=social)
 
-### Hi! I'm Green_Lab aka greencoder001 and I love to code.
+### Hi! I'm Green_Lab aka greencoder001 and I love coding.
 - 💬 Contact me over Discord: Green_Lab#1270 or [E-Mail](mailto:greencoder001@outlook.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greencoder001&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/greencoder001/greencoder001)<br>
