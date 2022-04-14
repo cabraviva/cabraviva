@@ -5,9 +5,9 @@
 ![Python](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
 <br>
 
-![GitHub followers](https://img.shields.io/github/followers/greencoder001?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/greencoder001?style=social)](https://github.com/greencoder001/)
 
-![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)
+[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg](https://stand-with-ukraine.pp.ua/)
 
 ### Hi! I'm Green_Lab aka greencoder001 and I love coding.
 - 💬 Contact me over Discord: Green_Lab#1270 or [E-Mail](mailto:greencoder001@outlook.com)
