@@ -11,7 +11,6 @@
 
 ### Hi! I'm Green_Lab aka greencoder001 and I love coding.
 - 💬 Contact me over Discord: Green_Lab#1270 or [E-Mail](mailto:greencoder001@outlook.com)
-- 🔎 I'm currently looking for: UX Designers, Web Designers & Front-End Developers that want to work on a currently nonprofit project
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greencoder001&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/greencoder001/greencoder001)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greencoder001&layout=compact&theme=tokyonight)](https://github.com/greencoder001/greencoder001)
