@@ -16,3 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greencoder001&layout=compact&theme=tokyonight)](https://github.com/greencoder001/greencoder001)
 
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Green_Lab&theme=tokyonight)](https://github.com/greencoder001/greencoder001)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=greencoder001&theme=tokyonight)](https://github.com/greencoder001)
