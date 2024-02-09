@@ -7,8 +7,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/greencoder001?style=social)](https://github.com/greencoder001)
 
-[![Stand with Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-no-action.svg)](https://stand-with-ukraine.pp.ua)
-
 ### Hi! I'm Cabra and I love coding.
 - 💬 Contact me over Discord: @cabraviva or [E-Mail](mailto:greencoder001@outlook.com)
 
