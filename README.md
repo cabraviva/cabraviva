@@ -5,12 +5,12 @@
 ![Python](https://img.shields.io/badge/Python-404D59?style=for-the-badge&logo=python&logoColor=white)
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/greencoder001?style=social)](https://github.com/greencoder001)
+[![GitHub followers](https://img.shields.io/github/followers/cabraviva?style=social)](https://github.com/cabraviva)
 
 ### Hi! I'm Cabra and I love coding.
 - 💬 Contact me over Discord: @cabraviva or [E-Mail](mailto:greencoder001@outlook.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabraviva&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/greencoder001/greencoder001)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabraviva&layout=compact&theme=tokyonight)](https://github.com/greencoder001/greencoder001)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cabraviva&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/cabraviva)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cabraviva&layout=compact&theme=tokyonight)](https://github.com/cabraviva/)
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Green_Lab&theme=tokyonight)](https://github.com/greencoder001/greencoder001)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cabraviva&theme=tokyonight)](https://github.com/cabraviva)
